@@ -1,11 +1,14 @@
 
 body {
     background-color: cadetblue;
-    font-family: monospace;
 }
 
 p {
+    font-family: monospace;
     text-align: left;
 }
 
+h2 {
+    font-family: monospace;
+}
 
