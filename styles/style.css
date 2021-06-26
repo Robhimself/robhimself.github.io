@@ -1,6 +1,7 @@
 
 body {
-    background-color: cadetblue;
+    background-color: #121212;
+    color: #eee;
 }
 
 p {
@@ -12,3 +13,7 @@ h2 {
     font-family: monospace;
 }
 
+}
+a {
+  color: #0033cc;
+}
