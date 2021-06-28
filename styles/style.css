@@ -1,6 +1,7 @@
 
 body {
     background-color: #152028;
+    color: #eee;
 }
 
 p {
@@ -10,6 +11,8 @@ p {
 
 h2 {
     font-family: monospace;
+    position: relative;
+    top: 15px;
 }
 
 a {
@@ -18,4 +21,14 @@ a {
 
 a:hover {
     color: blue;
+}
+
+#left {
+    float: left;
+    width: 40%;
+}
+
+#right {
+    float: right;
+    width: 40%;
 }
