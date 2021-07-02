@@ -4,9 +4,20 @@ body {
     color: #eee;
 }
 
+header {
+    text-align: center;
+}
+
+nav {
+  text-align: center;
+  background: white;
+  margin: 20px 0;
+  padding: 10px;
+}
+
 p {
     font-family: monospace;
-    text-align: left;
+    text-align: left 20%;
 }
 
 h2 {
