@@ -7,6 +7,7 @@ body {
 p {
     font-family: monospace;
     text-align: left 20%;
+    margin: auto;
 }
 
 h2 {
@@ -31,4 +32,9 @@ a:hover {
 #right {
     float: right;
     width: 40%;
+}
+
+img {
+    max-width: 20%;
+    height: auto;
 }
