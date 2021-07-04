@@ -33,8 +33,7 @@ a:hover {
     float: right;
     width: 40%;
 }
-
-img {
+.responsive-image {
     max-width: 20%;
     height: auto;
 }
