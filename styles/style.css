@@ -5,7 +5,7 @@ body {
     margin: 10%;
 }
 
-.intro {
+#intro {
     display: flex;
     align-items: center;
 }
