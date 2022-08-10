@@ -5,6 +5,10 @@ body {
     margin: 10%;
 }
 
+.profillogo {
+    float: left;
+}
+
 p {
     font-family: monospace;
     text-align: left 20%;
