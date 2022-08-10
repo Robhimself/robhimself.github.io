@@ -5,8 +5,13 @@ body {
     margin: 10%;
 }
 
+.intro {
+    align-items: center;
+}
+
 .profillogo {
     float: left;
+    grid
 }
 
 p {
