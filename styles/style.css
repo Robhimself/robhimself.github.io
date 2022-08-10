@@ -2,17 +2,21 @@
 body {
     background-color: #152028;
     color: #eee;
-    margin: 10%;
+    margin: 5%;
 }
 
 #intro {
     display: flex;
-    align-items: center;
+    align-items: left;
+}
+
+.profillogo {
+
 }
 
 p {
     font-family: monospace;
-    text-align: center;
+    text-align: left;
     margin: auto;
 }
 
@@ -42,4 +46,8 @@ a:hover {
 .responsive-image {
     max-width: 20%;
     height: auto;
+}
+
+img {
+    margin: 10px;
 }
