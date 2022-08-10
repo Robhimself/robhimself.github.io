@@ -5,6 +5,10 @@ body {
     margin: 10%;
 }
 
+.intro {
+    display: flex;
+    align-items: center;
+}
 
 p {
     font-family: monospace;
